@@ -1,4 +1,4 @@
-/*WAP a program to do sum of first 100 natural numbers*/
+/*WAP to do sum of first 100 natural numbers*/
 
 #include <stdio.h>
 
