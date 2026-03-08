@@ -13,7 +13,6 @@ int main()
     int start = 0;
     int end = 0;
     int mid = (start + end) / 2;
-
     for (int i = 0; i < 8; i++)
     {
         if (array[i] == num)
